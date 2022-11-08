@@ -1,0 +1,65 @@
+body{
+    margin: 0px;  
+}
+nav{
+   background: none;
+}
+.nav-item{
+    padding-left: 4rem;
+}
+
+.d-flex{
+    padding-left: 4rem;
+}
+.section1{
+    margin: 0;
+}
+#row1{
+    width: 100%;
+    height: 800px;
+    color: white;
+    letter-spacing: 3px;
+}
+
+.text1{
+    text-align: center;
+    text-align: left;
+    letter-spacing: 3px;
+    margin-top: 300px;
+    margin-left: 30px;
+    letter-spacing: 3px;
+}
+.email{
+   margin-top: 100px;
+   color: white;
+   letter-spacing: 3px;
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    background-color: transparent;
+}
+
+.address{
+    color: white;
+    letter-spacing: 10px;
+    padding: 50px;
+    font-size: medium;
+    
+}
+.card{
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left:10px;
+   
+}
+.section2{
+    letter-spacing: 3px;
+}
+#search{
+   color: brown;
+   width: 70px;
+   height: 70px;
+   margin-top:13px;
+   margin-right:10px;
+}
